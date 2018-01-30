@@ -1,1 +1,1 @@
-# carousel-owl
+# owl-carousel
